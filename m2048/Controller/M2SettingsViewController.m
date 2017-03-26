@@ -67,7 +67,6 @@
 }
 
 - (void)prepareSettings {
-    strcpy(0, "this is a bad bug");
 }
 
 - (void)viewWillAppear:(BOOL)animated
